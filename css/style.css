@@ -1,0 +1,31 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-color: grey;
+  border-width: thick;
+  border-style: dotted none none;
+  width: 5%;
+}
+
+img {
+  height: 200px;
+  width: auto;
+}
+
+h1 {
+  color: #66BFBF;
+  text-align: center;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+h3 {
+  text-indent: 30px;
+  color: #FFA07A;
+  text-decoration: underline;
+  text-decoration-color: red;
+  text-decoration-style: wavy;
+}
